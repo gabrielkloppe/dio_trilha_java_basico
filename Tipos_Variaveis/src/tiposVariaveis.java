@@ -1,4 +1,4 @@
-public class App {
+public class tiposVariaveis {
     public static void main(String[] args) throws Exception {
     /* FAMILIA  - TIPO PRIMITIVO - WRAPPER CLASS - TAMANHO
      * LÓGICO   -    boolean     -    Boolean    -  1 bit
@@ -69,7 +69,8 @@ double salarioMinimo = 2.500; //tipo "double", nome "salarioMinimo", valor 2.500
 		
 		VALOR_DE_PI=3.15; //Esta linha vai apresentar erro de compilação!
 	
-                 
+          
+             
 
     }
 }
