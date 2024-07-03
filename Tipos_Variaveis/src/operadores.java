@@ -168,7 +168,7 @@ public class operadores {
         // Qual a solução ?
         // Quando queremos comparar objetos, usamos o método equals
         
-        System.out.println(numero100.equals(numero200)); 
+        System.out.println(numero100.equals(numero200));
 
             //Lógicos
         //&& Operador Lógico "E"
